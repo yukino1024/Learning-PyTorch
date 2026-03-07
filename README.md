@@ -22,4 +22,4 @@ The code follows the course progression, covering fundamental DL concepts:
 The exercises are **organized by lecture**
 
 ---
-*Environment: Python 3.13.5 | PyTorch | NumPy | Matplotlib*
+*Environment: Python 3.13.5 | PyTorch | NumPy
