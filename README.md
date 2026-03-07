@@ -1,5 +1,5 @@
 # PyTorch-Learning-Journey
-*My implementation and notes for the classic "PyTorch Deep Learning Practice" course by Liu Hongpu.*
+*My implementation and codes for the classic "PyTorch Deep Learning Practice" course by Liu Hongpu.*
 
 ## 📌 About
 This repository contains my coding exercises for the course [PyTorch深度学习实践](https://www.bilibili.com/video/BV1Y7411d7Ys/). 
