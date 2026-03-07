@@ -2,8 +2,7 @@
 *My implementation and notes for the classic "PyTorch Deep Learning Practice" course by Liu Hongpu.*
 
 ## 📌 About
-This repository contains my coding exercises and study notes for the course [PyTorch深度学习实践](https://www.bilibili.com/video/BV1Y7411d7Ys/). 
-Through this journey, I’ve transitioned from a Chemistry background to understanding the mathematical and engineering foundations of Deep Learning.
+This repository contains my coding exercises for the course [PyTorch深度学习实践](https://www.bilibili.com/video/BV1Y7411d7Ys/). 
 
 ---
 
@@ -14,7 +13,7 @@ The code follows the course progression, covering fundamental DL concepts:
 2. **Backpropagation & Computational Graphs:** Understanding how PyTorch's `autograd` works.
 3. **Linear Regression & Logistic Regression:** Using `torch.nn` modules to build end-to-end pipelines.
 4. **Multiple Dimension Input:** Handling complex datasets.
-5. **CNN & RNN:** Basics of spatial and temporal feature extraction.
+5. **CNN & RNN:** Basics of spatial and temporal feature extraction.(Currently learning)
 
 ---
 
