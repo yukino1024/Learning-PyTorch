@@ -15,6 +15,7 @@ This repository contains my coding exercises and notes for the course "PyTorch D
 
 ## 🛠️ 学习路线与核心主题 | Roadmap & Key Topics
 代码严格遵循课程进度，涵盖了深度学习的基础核心概念：
+
 The code follows the course progression, covering fundamental Deep Learning concepts:
 
 1. **线性模型与梯度下降 | Linear Model & Gradient Descent**
@@ -41,6 +42,7 @@ The code follows the course progression, covering fundamental Deep Learning conc
 
 ## 📂 仓库结构 | Repository Structure
 练习代码按课程章节进行组织。
+
 The exercises are organized by lecture number.
 
 ---
