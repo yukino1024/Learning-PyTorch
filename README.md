@@ -7,9 +7,9 @@ My implementation and code for the classic "PyTorch Deep Learning Practice" cour
 ---
 
 ## 📌 项目简介 | About
-本仓库包含了我在学习 Bilibili 热门课程 [PyTorch深度学习实践](https://www.bilibili.com/video/BV1Y7411d7Ys/) 时的所有练习代码与笔记。
+本仓库包含了我在学习课程 [PyTorch深度学习实践](https://www.bilibili.com/video/BV1Y7411d7Ys/) 时的所有练习代码。
 
-This repository contains my coding exercises and notes for the course "PyTorch Deep Learning Practice" on Bilibili.
+This repository contains my coding exercises for the course "PyTorch Deep Learning Practice".
 
 ---
 
