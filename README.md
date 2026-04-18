@@ -1,6 +1,6 @@
 # 🚀 PyTorch-Learning-Journey | PyTorch 深度学习实践
 
-这是我对刘二大人经典课程《PyTorch深度学习实践》的个人实现与代码记录。
+这是我对刘二大人的课程《PyTorch深度学习实践》的个人实现与代码记录。
 
 My implementation and code for the classic "PyTorch Deep Learning Practice" course by Liu Hongpu.
 
@@ -9,7 +9,7 @@ My implementation and code for the classic "PyTorch Deep Learning Practice" cour
 ## 📌 项目简介 | About
 本仓库包含了我在学习课程 [PyTorch深度学习实践](https://www.bilibili.com/video/BV1Y7411d7Ys/) 时的所有练习代码。
 
-This repository contains my coding exercises for the course "PyTorch Deep Learning Practice".
+This repository contains my coding exercises for the course ["PyTorch Deep Learning Practice"](https://www.bilibili.com/video/BV1Y7411d7Ys/).
 
 ---
 
